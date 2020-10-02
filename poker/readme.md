@@ -29,3 +29,6 @@ The result of your poker hand comparison function should be an integer which is:
 - Apply the [Texas Hold'em rules](https://en.wikipedia.org/wiki/Texas_hold_%27em) for ranking the cards.
 - Low aces are NOT valid in this kata.
 - There is no ranking for the suits.
+
+### Credit
+Shamelessly borrowed and modified from: https://www.codewars.com/kata/5739174624fc28e188000465
