@@ -1,5 +1,12 @@
+# IDEs
+*.iml
+.idea/
+.eclipse
+.project
+
 # Compiled class file
 *.class
+.gradle/
 
 # Log file
 *.log
