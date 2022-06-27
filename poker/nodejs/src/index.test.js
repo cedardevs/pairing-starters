@@ -1,4 +1,4 @@
-import PokerHand from './PokerHand';
+import PokerHand from './index';
 
 test('can create a hand', () => {
   const hand = new PokerHand();
